@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @vjunico
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning to become data analyst
+- 🌱 I’m currently learning to become a data analyst
 - 📫 How to reach me :
+
       email: v_junico@outlook.com
+
       linkedin: https://www.linkedin.com/in/v-junico/
 
 <!---
